@@ -1,4 +1,4 @@
 # diff-practice
 git動画講座diff練習用
 複数ファイル変更用(3nd)
-mainブランチで変更
+mergetoolコンフリクト用(featureブランチ)
